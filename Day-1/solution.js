@@ -27,8 +27,7 @@ fs.readFile(filePath, 'utf-8', (err,data) => {
         const subArraySum = []
         for (let i = 0; i < depths.length-2; i++){
             sum = 0;
-            sum = sum + parseInt(depths[i]);
-            for (let j = i + 1; j < i + 3; j++) {
+            for (let j = i; j < i + 3; j++) {
                 sum = sum + parseInt(depths[j]);
             }
             subArraySum.push(sum);
