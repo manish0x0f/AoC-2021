@@ -6,6 +6,6 @@ part2 feels like a sliding window problem, but first I solved through bruteforce
 
 ## resources
 
-- https://yewtu.be/watch?v=GcW4mgmgSbw(see this to get gist of fixed and dynamic sliding window)
+- https://yewtu.be/watch?v=GcW4mgmgSbw (see this to get gist of fixed and dynamic sliding window)
 - 
 
