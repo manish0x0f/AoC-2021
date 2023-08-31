@@ -4,6 +4,8 @@ part1 of problem is just checking whether next item is greater than current item
 
 part2 feels like a sliding window problem, but first I solved through bruteforce approach.I will change to sliding window in next iteration.
 
+going through sliding window concepts from below resources and solved part2 with sliding window solution.
+
 ## resources
 
 - https://yewtu.be/watch?v=GcW4mgmgSbw (see this to get gist of fixed and dynamic sliding window)
