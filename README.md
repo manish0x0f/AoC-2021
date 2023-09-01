@@ -8,6 +8,9 @@ going through sliding window concepts from below resources and solved part2 with
 
 ## resources
 
-- https://yewtu.be/watch?v=GcW4mgmgSbw (see this to get gist of fixed and dynamic sliding window)
-- 
+- https://www.youtube.com/watch?v=GcW4mgmgSbw (see this to get gist of fixed and dynamic sliding window)
+- https://www.youtube.com/watch?v=EHCGAZBbB88&list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj(full playing covering more details)
 
+# Day-2 
+
+part1 and part2 feels like a simple parsing problem and solved it in the first go.I didnt see this question related to any concept in CS.
